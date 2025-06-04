@@ -14,7 +14,6 @@
 - [Project Roadmap](#project-roadmap)
 - [Project Status](#project-status)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Acknowledgments](#acknowledgments)
 - [License Information](#license-information)
 
 ---
@@ -95,7 +94,7 @@ JavaDocs are included inline to assist with method expectations and behaviors.
 
 For questions or bugs:
 - Open an issue via GitHub
-- Or contact via email: `your-email@example.com`
+- Or contact via email: `ezhang0606@gmail.com`
 
 ---
 
@@ -125,15 +124,6 @@ We welcome contributions! Please follow these steps:
 5. Include tests for new functionality where possible
 
 Refer to the included JavaDocs for consistent method style and behavior.
-
----
-
-## 🙌 Acknowledgments
-
-Special thanks to:
-- UC Berkeley CS 61B for inspiration
-- The open-source Java community for structure ideas
-- My peers and mentors for reviewing test cases and performance insights
 
 ---
 
